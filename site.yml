@@ -1,16 +1,16 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Life is a chunky pattern
+tagline: %w{Ruby Javascript SoftwareDesign}.blogify
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Gabriel Dehan
+  email : dehan dot gabriel at gmail dot com
+  github : gabriel-dehan
+  twitter : GabrielDehan
   feedburner : feedname
 
 navigation :
+  - readings.md
   - archive.html
   - tags.html
   - categories.html
-  - pages.html
-  - about.md
+
   
