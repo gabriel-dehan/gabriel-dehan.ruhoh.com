@@ -2,7 +2,7 @@
 # Usage: http://ruhoh.com/usage/configure/ 
 
 RuhohSpec: '1.0'
-theme : tom
+theme : why
 production_url : http://gabriel-dehan.ruhoh.com
 
 posts:

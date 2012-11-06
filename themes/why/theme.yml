@@ -1,0 +1,23 @@
+{
+  "stylesheets" : {
+    "default" : [
+      "bootstrap.min.css",
+      "style.css"
+    ],
+   
+    "widgets" : {
+      "google_prettify" : "sons-of-obsidian.css"
+    }
+    
+  },
+
+  "javascripts" : {
+    "default" : [
+    ]
+  },
+  
+  "manifest" : {
+    "author" : "Gabriel Dehan",
+    "website" : "gabriel-dehan.ruhoh.com"
+  }
+}

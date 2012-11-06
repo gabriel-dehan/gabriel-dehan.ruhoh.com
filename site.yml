@@ -1,5 +1,5 @@
 title : Life is a chunky pattern
-tagline: %w{Ruby Javascript SoftwareDesign}.blogify
+tagline: "%w{Ruby Javascript SoftwareDesign}.blogify"
 author :
   name : Gabriel Dehan
   email : dehan dot gabriel at gmail dot com
